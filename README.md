@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **C#, React, Next and Angular**
 
-- 👨‍💻 All of my projects are available at [heberthsilva.com](heberthsilva.com)
+- 👨‍💻 All of my projects are available at [https://heberthsilva.com](https://heberthsilva.com)
 
 - 📫 How to reach me **heberth.silva@live.com**
 
-- 📄 Know about my experiences [heberthsilva.com\curriculo](heberthsilva.com\curriculo)
+- 📄 Know about my experiences [https://heberthsilva.com\curriculo](https://heberthsilva.com\curriculo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
