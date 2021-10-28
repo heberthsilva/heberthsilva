@@ -92,15 +92,13 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<div>
-	<div width="50%">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heberthsilva&show_icons=true&locale=en&layout=compact" alt="heberthsilva" />
-	</div>
-	<div width="50%">
-		<img src="https://github-readme-stats.vercel.app/api?username=heberthsilva&show_icons=true&locale=en" alt="heberthsilva" />
-	</div>
-</div>
-<br>
+<a href="https://github.com/heberthsilva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heberthsilva&show_icons=true&locale=en&layout=compact" alt="heberthsilva" />
+</a>
+<a href="https://github.com/heberthsilva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heberthsilva&show_icons=true&locale=en" alt="heberthsilva" />
+</a>
+
 
   ##
   
