@@ -93,9 +93,9 @@
 
 <h3 align="left">Stats:</h3>
 <div align="center">
-	<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heberthsilva&show_icons=true&locale=en&layout=compact" alt="heberthsilva" />
-	<img height="207em" src="https://github-readme-stats.vercel.app/api?username=heberthsilva&show_icons=true&locale=en" alt="heberthsilva" />
-	<img height="207em" src="https://github-readme-streak-stats.herokuapp.com/?user=heberthsilva&" alt="heberthsilva" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heberthsilva&show_icons=true&locale=en&layout=compact" alt="heberthsilva" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heberthsilva&show_icons=true&locale=en" alt="heberthsilva" />
+	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=heberthsilva&" alt="heberthsilva" />
 </div>
 <br>
 
