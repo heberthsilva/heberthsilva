@@ -91,8 +91,6 @@
 		</a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/heberthsilva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="heberthsilva" /></a></p>
 <h3 align="left">Stats:</h3>
 <div>
 	<img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=heberthsilva&show_icons=true&locale=en&layout=compact" alt="heberthsilva" />
@@ -105,6 +103,13 @@
   
   ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
 
+
+<h3 align="left">Support:</h3>
+<p>
+<a href="https://www.buymeacoffee.com/heberthsilva">
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="heberthsilva" />
+</a>
+</p>
 
 <!--
 **heberthsilva/heberthsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
