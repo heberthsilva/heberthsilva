@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Heberth Silva</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
+- 👨💻 **.Net and Angular Developer**
+
 - 🌱 I’m currently learning **C#, React, Next and Angular**
 
 - 👨‍💻 All of my projects are available at [heberthsilva.com](https://heberthsilva.com)
@@ -27,7 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heberthsilva&show_icons=true&locale=en" alt="heberthsilva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heberthsilva&" alt="heberthsilva" /></p>
-
 
 <!--
 **heberthsilva/heberthsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
