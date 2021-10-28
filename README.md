@@ -92,10 +92,10 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<div width = "100%">
-	<img width = "30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=heberthsilva&show_icons=true&locale=en&layout=compact" alt="heberthsilva" />
-	<img width = "35%" src="https://github-readme-stats.vercel.app/api?username=heberthsilva&show_icons=true&locale=en" alt="heberthsilva" />
-	<img width = "35%" src="https://github-readme-streak-stats.herokuapp.com/?user=heberthsilva&" alt="heberthsilva" />
+<div align="center">
+	<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs?username=heberthsilva&show_icons=true&locale=en&layout=compact" alt="heberthsilva" />
+	<img height="207em" src="https://github-readme-stats.vercel.app/api?username=heberthsilva&show_icons=true&locale=en" alt="heberthsilva" />
+	<img height="207em" src="https://github-readme-streak-stats.herokuapp.com/?user=heberthsilva&" alt="heberthsilva" />
 </div>
 <br>
 
