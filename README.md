@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heberth Silva</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
-- 👨💻 **.Net and Angular Developer**
+- 👨💻 **C#, .Net and Angular Developer**
 
-- 🌱 I’m currently learning **C#, React, Next and Angular**
+- 🌱 I’m currently learning **React and Next**
 
 - 👨‍💻 All of my projects are available at [heberthsilva.com](https://heberthsilva.com)
 
