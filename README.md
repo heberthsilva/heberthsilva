@@ -98,6 +98,9 @@
 <a href="https://github.com/heberthsilva">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=heberthsilva&show_icons=true&locale=en" alt="heberthsilva" />
 </a>
+<a href="https://github.com/heberthsilva">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=heberthsilva&column=8&theme=darkhub&no-frame=true&no-bg=true" alt="heberthsilva" />	
+</a>
 
 
   ##
@@ -111,6 +114,8 @@
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="heberthsilva" />
 </a>
 </p>
+<h3 align="left">Cont:</h3>
+<img align="center" src="https://profile-counter.glitch.me/heberthsilva/count.svg" alt="heberthsilva" />
 
 <!--
 **heberthsilva/heberthsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
