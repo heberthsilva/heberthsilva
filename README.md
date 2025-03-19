@@ -102,6 +102,8 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=heberthsilva&column=8&theme=darkhub&no-frame=true&no-bg=true" alt="heberthsilva" />	
 </a>
 
+##
+[![GitHub Streak](https://streak-stats.demolab.com?user=heberthsilva&theme=highcontrast&hide_border=true&border_radius=5&fire=EB5454)](https://git.io/streak-stats)
 
 ##
 ![snake gif](https://github.com/heberthsilva/heberthsilva/blob/output/github-snake-dark.svg)
